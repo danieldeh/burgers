@@ -1,4 +1,4 @@
-Solves nonlinear Burgers equation with stochastic forcing
+Solves nonlinear viscous Burgers equation with stochastic forcing
 
 du/dt + u du/dx = \nu d2u/dx2 + f_t(x),
 
